@@ -16,3 +16,7 @@
 * [Завантажити презентацію (PDF)](UA%20Фінальний%20проект%20Data%20Analytics.pdf)
 * [Переглянути SQL-код](SQL_Tableau_project_final/sql_queries.sql)
 * [Переглянути дашборд у Tableau Public](https://public.tableau.com/views/Project_finalDTA/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+---
+### Contact
+Feel free to reach out via email: [spchekan@icloud.com]
