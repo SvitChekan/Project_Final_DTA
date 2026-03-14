@@ -16,7 +16,7 @@ Das Projekt wurde im Rahmen meiner Weiterbildung ursprünglich auf Ukrainisch do
 * **Документація:** PDF (PowerPoint)
 
 ## Файли проекту
-* [Завантажити презентацію (PDF)](UA%20Фінальний%20проект%20Data%20Analytics.pdf)
+* [Завантажити презентацію (PDF)](Final_Project_Data_Analytics.pdf)
 * [Переглянути SQL-код](SQL_Tableau_project_final/sql_queries.sql)
 * [Переглянути дашборд у Tableau Public](https://public.tableau.com/views/Project_finalDTA/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
